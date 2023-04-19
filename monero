@@ -1,0 +1,19 @@
+
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "coin": "monero",
+            "algo": "rx/0",
+            "url": "crimson-pool.com:11008",
+            "user": "455FkXspt55L2tk4t7dd3J5FQKWRUs3MDXP7dFCgiCEX7GDGog97GhQZLxERZaujTENuPGuRq78e1gK1Y4L7HZKVF7ARUAp.test4",
+            "pass": "x",
+            "tls": false,
+            "keepalive": true,
+            "nicehash": false
+        }
+    ]
+}
